@@ -1,0 +1,26 @@
+label{
+    color:blue;
+    font-weight: bold;
+   
+    
+}
+form{
+		
+    border: 2px solid;
+    
+    margin: 75px 50px 75px 450px;
+    padding: 2%;
+    
+    border-radius: 5px;
+    
+    width: 30%;
+    background-color: aqua;   
+    background-color:blanchedalmond;    
+        
+}
+h1{
+
+    color: red;
+    margin: 75px 50px 75px 600px;
+
+}
